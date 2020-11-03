@@ -62,23 +62,6 @@ public class ShoppingListService {
 		//return this.shoppingLists; 
 	}
 	
-//	public void deleteShoppingList(int shoppingListId) {
-//		
-//		ShoppingList shoppingList = getShoppingListById(shoppingListId); 
-//		this.shoppingLists.remove(shoppingList);
-//	}
-//	
-//	public void addShoppingList(ShoppingList shoppingList) {
-//		this.shoppingLists.add(shoppingList);
-//	}
-//	
-//	public ShoppingList getShoppingListById(int shoppingListId) {
-//		return this.shoppingLists.stream().filter(x -> x.getShoppingListId() == shoppingListId).findFirst().get();	
-//	}
-//
-//	public List<ShoppingList> getAllShoppingLists() {
-//		return this.shoppingLists; 
-//	}
 	
 }
 
